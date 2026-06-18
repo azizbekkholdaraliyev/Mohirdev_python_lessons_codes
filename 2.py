@@ -3,3 +3,7 @@ print(" python file yaratganimizda fayl nomidan keyin (.py) qoshimchasini qoshis
 #birinchi dasturimiz 
 print("Hello World!")
 #siz endi dasturchisiz! ha ha ha.
+
+#homework
+print("Assalomu Alaykum")
+
