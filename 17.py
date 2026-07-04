@@ -52,6 +52,8 @@
 #     else:
 #         print(float(qiymat)**2)
 # print('Dastur tugadi!')
+
+
 # # break for
 
 # sonlar = list(range(1,11))
