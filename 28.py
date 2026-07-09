@@ -1,5 +1,7 @@
 #OOP
 
+#Class
+
 #chiziqli dastur --- dastur ketma ketlik bilan bajariladi, boshi va oxiri aniq belgilangan
 # import random
 
