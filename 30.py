@@ -49,11 +49,11 @@ class Manzil:
 
     def get_manzil(self):
         """manzilni korish"""
-        manzil = f"{self.viloyat} viloyati, {self.tuman} tumani"
+        manzil = f"{self.viloyat} viloyati, {self.tuman} tumani, "
         manzil += f"{self.kocha} kochasi, {self.uy}-uy"
         return manzil
 
 talaba1_manzil = Manzil(26, "istiqlol", 'bagdod', 'fergana')
 talaba1 = Talaba('vali', 'farizov', 'KH323', '2000', 'dk23233433', talaba1_manzil)
 
-talaba1.Talaba.get_manzil()
+print(talaba1.manzil.get_manzil())
